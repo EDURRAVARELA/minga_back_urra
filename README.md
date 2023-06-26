@@ -1,1 +1,0 @@
-# minga_back_urra1
