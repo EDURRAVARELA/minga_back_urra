@@ -1,4 +1,5 @@
 import 'dotenv/config.js'
+import './config/db.js'
 import express from 'express';
 import path from 'path';
 import logger from 'morgan';
